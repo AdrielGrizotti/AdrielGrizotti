@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html style="background-color:Gray);" lang="pt"; font-family="serif">
+ <style> table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-family: Arial, sans-serif;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 2px solid #000; /* Borda preta e mais espessa */
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        tbody tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+    </style>
+<head>
+<title>Currículo - Adriel Grizotti</title>
+</head>
+<body>
+<img src="foto.jpg" alt="foto.jpg"
+style="width:200px;height:250px;float:right;">
+<h1 style="font-size: 300%; color: SteelBlue;">Adriel da Silva Grizotti</h1>
+<h1 style="color: navy;">Informações Pessoais</h1>
+<ul>
+<p><li><b>Idade:</b> 22 anos</li></p>
+<p><li><b>Celular: </b>(11)94260-3258</li></p>
+<p><li><b>E-mail: </b> <i>adrielgrizotti@gmail.com</i></li></p>
+<p><li><b>Endereço: </b> Jardim Marilu, Carapicuíba - 06343-170</li></p>
+<p><li><b>Estado Civil: </b>Solteiro</li></p>
+</ul>
+
+<h1 style="color: navy;">Perfil Profissional</h1>
+<p>Sou uma pessoa dedicada, esforçada e comprometida com as atribuições que são dadas a mim, com facilidade e criatividade para resolução de problemas, 
+me coloco à disposição da empresa para aprender a função que me for nomeada e assim contribuir para os resultados da organização.</p>
+
+<h1 style="color: navy;">Formação</h1>
+<p><b>Ensino médio: </b>Concluído no ano de 2018 no Serviço Social da Indústria (SESI) Jd. Roberto CE-425.</p>
+<p><b>Ensino superior: </b>Curso de Comércio Exterior concluído no ano de 2020 na Universidade Paulista<br>
+Curso Superior em Análise e Desenvolvimento de Sistemas iniciado em janeiro de 2024 na faculdade Estácio de Carapicuíba</p>
+
+<h1 style="color: navy;">Cursos Complementares</h1>
+<p><b>Idiomas: </b>Inglês Avançado concluído no ano de 2021 em aulas com o professor Celso Ronald utilizando o material <i>Interchange 4th Edition</i></p>
+<p><b>Curso: </b>Excel 2016 Básico concluído no ano de 2020 no Serviço Nacional de Aprendizagem Comercial(SENAC)</p>
+<p><b>Treinamentos: </b>"Seja empreendedor" realizado pelo Centro de Integração Empresa-Escola(CIEE) em 2020.<br>
+"Produção de Textos" realizado pelo Centro de Integração Empresa-Escola(CIEE) em 2020.</p>
+
+<h1 style="color: navy;">Experiências Profissionais</h1>
+<table>
+        <thead>
+            <tr>
+                <th>Cargo</th>
+                <th>Empresa</th>
+                <th>Duração</th>
+                <th>Atribuições</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Jovem Aprendiz na Área Comercial</td>
+                <td>FBS Construção Civil e Pavimentação S/A</td>
+                <td>Out. de 2019 - Jan. de 2021</td>
+                <td>
+                    - Registro e administração de propostas e cadastros.<br>
+                    - Gestão de dados de fornecedores e clientes.<br>
+                    - Atualização e manutenção de documentações e informações.
+                </td>
+            </tr>
+            <tr>
+                <td>Agente Bilíngue</td>
+                <td>Blue Dot Contact Center</td>
+                <td>Jul. de 2021 - Dez. de 2021</td>
+                <td>
+                    - Atendimento ao cliente em inglês para os EUA.<br>
+                    - Prospecção e suporte na área de teleatendimento.<br>
+                    - Treinamento e orientação de novos colaboradores.
+                </td>
+            </tr>
+            <tr>
+                <td>Auxiliar Administrativo / Assistente de Ferramentaria</td>
+                <td>Helipark</td>
+                <td>Out. de 2022 - Out. de 2023</td>
+                <td>
+                    - Controle e documentação das manutenções de aeronaves.<br>
+                    - Gestão e rastreabilidade de ferramentas e equipamentos.<br>
+                    - Manutenção dos EPI’s e controle de aferições.
+                </td>
+            </tr>
+            <tr>
+                <td>Auxiliar de TI</td>
+                <td>King IT</td>
+                <td>Jun. de 2023 - Presente</td>
+                <td>
+                    - Suporte técnico e manutenção de infraestrutura.<br>
+                    - Gestão de sistemas e controle para a empresa e unidades associadas.<br>
+                    - Implementação de soluções e resolução de problemas técnicos.
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="4">Total de experiências: 4</td>
+            </tr>
+        </tfoot>
+    </table>
+
+<br> <br> <br> <br> <br>
+<p> <a href="cartaodevisitas.html"> Cartão de Visitas </a></p>
+<p> <a href="Index.html"> Voltar </a></p>
+</body>
+</html>
