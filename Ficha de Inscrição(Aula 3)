@@ -130,7 +130,7 @@
             <input type="text" id="telefone" name="telefone" maxlength="15" placeholder="(XX)XXXXX-XXXX" oninput="formatarTelefone(this); validarFormulario()" onkeydown="ajustarBackspace(this, event)">
 
             <label for="endereco">Endereço:</label>
-            <textarea id="endereco" name="endereco" rows="4" cols="50" oninput="validarFormulario()"></textarea>
+            <textarea id="endereco" name="endereco" rows="4" cols="50" placeholder="Digite aqui..." oninput="validarFormulario()"></textarea>
 
             <label for="sexo">Sexo:</label>
             <select id="sexo" name="sexo" onchange="validarFormulario()">
